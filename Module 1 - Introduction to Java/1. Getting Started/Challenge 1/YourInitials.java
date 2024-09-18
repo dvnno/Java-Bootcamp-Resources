@@ -4,10 +4,10 @@ public class YourInitials {
 
         System.out.println("DDDD   N   N");
         System.out.println("D   D  NN  N");
-        System.out.println("D   D  NN  N");
-        System.out.println("D   D  N N N");
         System.out.println("D   D  N N N");
         System.out.println("D   D  N  NN");
+        System.out.println("D   D  N   N");
+        System.out.println("D   D  N   N");
         System.out.println("DDDD   N   N");
 
     }
